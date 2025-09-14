@@ -67,11 +67,13 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ ![WhatsApp Image 2025-09-15 at 00 15 48_c6076040](https://github.com/user-attachments/assets/15707dd6-ec04-47fa-bb72-d2c8371a660c)
+
 
 
 b.  KCL:
 
+![WhatsApp Image 2025-09-15 at 00 16 23_6074b1bc](https://github.com/user-attachments/assets/43bb2ea3-ed8f-4516-9858-4006af328668)
 
 
 RESULT:
