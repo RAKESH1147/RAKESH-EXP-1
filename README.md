@@ -51,10 +51,11 @@ a.   KVL:
 
 b.  KCL:
 
+<img width="353" height="258" alt="image" src="https://github.com/user-attachments/assets/cf553a95-a781-4557-a9b5-62dc8c2d2654" />
 
-Calculation and Tabulation: 
+Calculation and Tabulation of KVL KCL:: 
 
-a.   KVL: b.  KCL:
+
 ![WhatsApp Image 2025-09-15 at 00 05 51_cfa6e277](https://github.com/user-attachments/assets/e6e88ef2-ee05-4ef5-a970-22dba17b438d)
 ![WhatsApp Image 2025-09-15 at 00 05 52_ab277d7c](https://github.com/user-attachments/assets/4fa38aae-1292-4c8e-a3e0-0a28a4685325)
 ![WhatsApp Image 2025-09-15 at 00 05 52_b262f976](https://github.com/user-attachments/assets/ff48dce0-ace9-42e7-aaca-73519d8479fe)
